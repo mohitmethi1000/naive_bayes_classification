@@ -1,4 +1,4 @@
-# 🧠 Spam Detection using Naive Bayes (from Scratch)
+# Spam Detection using Naive Bayes (from Scratch)
 
 This project implements a **Spam/Ham classifier** using a **Multinomial Naive Bayes** algorithm written entirely from scratch — without using any built-in `scikit-learn` classifier.
 
