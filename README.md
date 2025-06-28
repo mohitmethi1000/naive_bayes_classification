@@ -17,3 +17,4 @@ This project implements a **Spam/Ham classifier** using a **Multinomial Naive Ba
 
 ---
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/mohitmethi/my-project/blob/main/main_analysis.ipynb](https://github.com/mohitmethi1000/naive_bayes_classification/blob/main/spam_detection.ipynb))
